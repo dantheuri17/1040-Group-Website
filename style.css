@@ -1,0 +1,40 @@
+header{
+height:60px;
+background: Yellow;
+padding:0 50px;
+}
+.logo{
+float:left;
+}
+
+
+nav{
+width:68%;
+float:right;
+text align: center;
+}
+nav ul{
+list style:none;
+float:right;
+}
+nav ul li{
+display:inline-block;
+list style:none;
+}
+nav ul li a{
+color:maroon;
+font-family:Bradley Hand ITC;
+font-weight:bold;
+margin:0 10px;
+line-height:60px;
+text-transform:
+}
+nav ul li a:hover{color:Green;
+}
+body{
+background:sam1111.jfif;}
+footer{
+background: #ffa31a;
+color:Maroon;
+padding:0 50px;
+}
