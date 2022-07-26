@@ -46,14 +46,22 @@ padding:0 50px;
 
 /*------------------------------- Gallery -------------*/
 
+#gallery-navbar{
+  padding: 10px; 
+}
+
+.gallery-links {
+  text-decoration: none;
+}
+
 #gallery-body { 
     background-color: white;
   }
   
   #gallery-header{
-    color: white; 
+    color: black; 
     text-align: center;
-    margin: 10px; 
+    margin-bottom: 20px; 
   }
   
   .gallery-imgs {
