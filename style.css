@@ -18,6 +18,7 @@ nav ul{
 list-style:none;
 float:right;
 }
+
 nav ul li{
 display:inline-block;
 list-style:none;
@@ -29,7 +30,7 @@ font-family:Bradley Hand ITC;
 font-weight:bold;
 margin:0 10px;
 line-height:60px;
-
+text-decoration: none;
 }
 
 nav ul li a:hover{color:Green;
@@ -50,9 +51,6 @@ padding:0 50px;
   padding: 10px; 
 }
 
-.gallery-links {
-  text-decoration: none;
-}
 
 #gallery-body { 
     background-color: white;
@@ -62,6 +60,7 @@ padding:0 50px;
     color: black; 
     text-align: center;
     margin-bottom: 20px; 
+    clear: both;
   }
   
   .gallery-imgs {
